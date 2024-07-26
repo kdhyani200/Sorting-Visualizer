@@ -22,7 +22,8 @@ Installation
   3. Compile the java files : javac kd/sorting/*.java
   4. Run the application : java kd.sorting.SortingVisualizer
 
-Usage
+# Usage
+
   * Start the application.
   * Use the sliders to adjust the speed and size of the array.
   * Select the desired sorting algorithm from the dropdown menu.
